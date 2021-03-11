@@ -1,0 +1,64 @@
+title {
+    color: black;
+}
+
+body {
+    background-color: silver;
+    line-height: normal;
+}
+
+img {
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50px;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+h1 {
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    color:black;
+}
+
+button {
+    color:silver;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: cornsilk;
+    a:hover
+}
+
+ul {
+    color: royalblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: cornsilk;
+    a:hover
+}
+
+.card-white {
+    width: 400px;
+    background-color:white;
+}
+
+.container {
+    width: 600px;   
+    margin: 0, auto; 
+}
+
+@media (max-width: 960px) {
+    .container {
+    width: 700px;
+    }
+}
